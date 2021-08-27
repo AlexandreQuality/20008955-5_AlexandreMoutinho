@@ -51,7 +51,7 @@ include "./function/functions.php";
 <footer>
   
   <div id="footer_id" class="container">
-     <p> <img src="./img/unnamed.png" width="85" height="50">   Copyright © 2021 | MAPA | Aluno: ALEXANDRE PEREIRA MOUTINHO  | RA: 20008955-5 | Curso: SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET</p>
+     <p> <img src="./img/unnamed.png" width="85" height="50">   2021 | MAPA | Aluno: ALEXANDRE PEREIRA MOUTINHO  | RA: 20008955-5 | Curso: SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET</p>
   </div>
  <div>
  

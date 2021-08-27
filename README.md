@@ -1,6 +1,6 @@
 # #-----------------< Ativida de MAPA >----------------#
 
-# Copyright © 2021 | Aluno: ALEXANDRE PEREIRA MOUTINHO  | RA: 20008955-5 
+# 2021 | Aluno: ALEXANDRE PEREIRA MOUTINHO  | RA: 20008955-5 
 
 ## 📦 Tecnologias utilizadas para construção:
 - HTML5 -  Como linguagem de marcação.
