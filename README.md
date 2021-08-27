@@ -1,4 +1,4 @@
-# #-------------------------< Ativida de MAPA >------------------------#
+# #-----------------< Ativida de MAPA >----------------#
 
 # Copyright © 2021 | Aluno: ALEXANDRE PEREIRA MOUTINHO  | RA: 20008955-5 
 
@@ -15,8 +15,6 @@
 ![](img/site_local.png)
 ![](img/site_bolos.png)
 
-## Como rodar o projeto
-Abra o terminal Git Bash no diretorio xampp/htdocs e cole o seguinte comando:
-```
+
 git clone https://github.com/AlexandreQuality/20008955-5_AlexandreMoutinho
-```
+
