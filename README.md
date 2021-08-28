@@ -14,6 +14,8 @@
 ![](img/site_contato.png)
 ![](img/site_local.png)
 ![](img/site_bolos.png)
+![](img/site_balas.png)
+![](img/site_festas.png)
 
 
 git clone https://github.com/AlexandreQuality/20008955-5_AlexandreMoutinho
